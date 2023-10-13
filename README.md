@@ -29,7 +29,5 @@ Law-son/Law-son is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Law-son&theme=dark)](https://git.io/streak-stats)
-</p>
 
