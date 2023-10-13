@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[[your-profile-image-url](https://photos.google.com/photo/AF1QipMhEVfiquLOoZEVErSIemOVcFxvrvkkx0tCgTM8)](https://avatars.githubusercontent.com/u/66496742?s=400&u=1125dcd47b6a155e78e90fbb60bef52fbf291192&v=4)" alt="Lawson Buabassah" width="200" height="200">
-</p>
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
 
@@ -23,9 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="linkedin-icon.png" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/your-profile"><img src="twitter-icon.png" alt="Twitter" width="30" height="30"></a>&nbsp;&nbsp;
-  <a href="https://your-portfolio-website.com"><img src="portfolio-icon.png" alt="Portfolio" width="30" height="30"></a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lawson-buabassah-792b34225)"><img src="linkedin-icon.png" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/eyarko_"><img src="twitter-icon.png" alt="Twitter" width="30" height="30"></a>&nbsp;&nbsp;
 </p>
 
 <!---
