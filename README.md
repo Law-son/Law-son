@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[your-profile-image-url](https://photos.google.com/photo/AF1QipMhEVfiquLOoZEVErSIemOVcFxvrvkkx0tCgTM8)" alt="Your Name" width="200" height="200">
+  <img src="[[your-profile-image-url](https://photos.google.com/photo/AF1QipMhEVfiquLOoZEVErSIemOVcFxvrvkkx0tCgTM8)](https://avatars.githubusercontent.com/u/66496742?s=400&u=1125dcd47b6a155e78e90fbb60bef52fbf291192&v=4)" alt="Lawson Buabassah" width="200" height="200">
 </p>
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
@@ -32,4 +32,8 @@
 Law-son/Law-son is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<span align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Law-son&theme=dark)](https://git.io/streak-stats)
+</span>
+
