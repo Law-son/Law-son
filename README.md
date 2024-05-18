@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems" alt="Typing SVG" /></a>
 
 <h2 align="center">📫 How to Reach Me</h2>
 
