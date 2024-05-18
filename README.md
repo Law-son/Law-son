@@ -22,12 +22,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Law-son&theme=dark" alt="GitHub Streak">
-  </a>
-</div>
-
 <h2 align="center">🛠️ Languages and Frameworks</h2>
 
 <div align="center">
@@ -44,4 +38,10 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Law-son&theme=dark" alt="GitHub Streak">
+  </a>
 </div>
