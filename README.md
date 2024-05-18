@@ -1,18 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems" alt="Typing SVG" /></a>
-
-<p align="center">
-  Welcome to my GitHub profile! I'm a passionate web and mobile app developer, always eager to explore new possibilities in the digital world.
-</p>
-
-<p align="center">
-  🚀 My current focus is on mastering Flutter, a versatile framework for building stunning cross-platform mobile applications.
-</p>
-
-<p align="center">
-  💡 I'm open to exciting collaborations on web development and mobile app projects. Let's create something amazing together!
-</p>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems" alt="Typing SVG" /></a>
 
 <h2 align="center">📫 How to Reach Me</h2>
 
