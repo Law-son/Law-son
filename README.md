@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
+<h2 align="center">My GitHub Streak</h2>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Law-son&theme=dark" alt="GitHub Streak">
