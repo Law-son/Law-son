@@ -1,5 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems)](https://git.io/typing-svg)
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate web and mobile app developer, always eager to explore new possibilities in the digital world.
@@ -29,4 +30,4 @@ Law-son/Law-son is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-  &nbsp;&nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=Law-son&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Law-son&theme=dark)](https://git.io/streak-stats)
