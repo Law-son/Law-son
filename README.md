@@ -16,6 +16,9 @@
   <a href="mailto:buabassahlawson@gmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+    <a href="https://wa.me/233272001700" style="margin-right: 10px;">
+    <i class="fab fa-whatsapp fa-2x"></i>
+  </a>
 </div>
 
 <div align="center">
