@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Lawson</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+junior+developer;I+love+being+creative;Full-stack+web%2Fmobile+app+developer;I+build+robots+and+AI+systems" alt="Typing SVG" /></a>
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate web and mobile app developer, always eager to explore new possibilities in the digital world.
