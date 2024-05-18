@@ -18,11 +18,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lawson-buabassah-792b34225"><img src="" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/eyarko_"><img src="" alt="Twitter" width="30" height="30"></a>&nbsp;&nbsp;
-</p>
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Law-son&theme=dark" alt="GitHub Streak">
